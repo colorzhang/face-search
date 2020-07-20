@@ -11,6 +11,9 @@ Prerequisites:
 * Amazon ES (Cloud) 7.1+ or Open Distro for Elasticsearch (On promise) 1.8+
 * Amazon Rekognition (Optional)
 
+References:
+* Visual image search, https://aws.amazon.com/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/
+
 Architecture:
 
 ![architecture](https://github.com/colorzhang/face-search/blob/master/arch.png)
