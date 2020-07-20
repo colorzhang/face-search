@@ -1,4 +1,4 @@
-## Face search demo using Amazon ES knn and machine learning.
+## Face search demo using Amazon ES knn and machine learning
 
 High level steps:
 
