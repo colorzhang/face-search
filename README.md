@@ -8,8 +8,7 @@ High level steps:
 
 Prerequisites:
 * face_recognition, https://github.com/ageitgey/face_recognition
-* Amazon ES (Cloud) 7.1+ or Open Distro for Elasticsearch (On promise) 1.8+
-* Amazon Rekognition (Optional)
+* Amazon ES 7.1+ (Cloud) or Open Distro for Elasticsearch 1.8+ (On promise)
 
 References:
 * Visual image search, https://aws.amazon.com/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/
