@@ -12,3 +12,5 @@ Prerequisites:
 * Amazon Rekognition (Optional)
 
 Architecture:
+
+! [architecture](arch.png)
