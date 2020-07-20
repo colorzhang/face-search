@@ -13,4 +13,4 @@ Prerequisites:
 
 Architecture:
 
-![architecture](arch.png)
+![architecture](https://github.com/colorzhang/face-search/blob/master/arch.png)
