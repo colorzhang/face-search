@@ -13,4 +13,4 @@ Prerequisites:
 
 Architecture:
 
-! [architecture](arch.png)
+![architecture](arch.png)
