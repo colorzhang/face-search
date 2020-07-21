@@ -4,7 +4,7 @@ High level steps:
 
 1. face detection and feature extraction
 2. feature vector index in ES
-3. 1:N vector search
+3. 1:N face vector search
 
 Prerequisites:
 * face_recognition, https://github.com/ageitgey/face_recognition
